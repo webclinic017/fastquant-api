@@ -1,1 +1,2 @@
 from .target_dataframe import TargetDataFrame
+from .dashboard_subscription import DashboardSubscriptionConfiguration
